@@ -1,36 +1,10 @@
-# Housing_Price_Prediction_In_Beijing
+# Housing_Price_Prediction
 
 ## Installation Guide
 1. Clone or Fork the Project
 2. Create a Virtual Enviroment
 3. go to same virtual enviroment and write below cmd
 4. pip install -r requirements.txt
-
-## Project Highlights
-1. Research Paper
-2. User Friendly
-3. Accuracy
-4. Open Source
-
-## Table Of Content
-1. [Project Descriptiom](https://www.kaggle.com/ruiqurm/lianjia)<br>
-    A. Problem Statement<br>
-    B. Best Possible Solutions<br>
-    C. Introduction About Project<br>
-    D. Tools and Libraries
-2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
-3.  Generic Flow Of Project
-4. [EDA](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Housing_Price_Predication_Project_EDA.ipynb)<br>
-    A. Data Cleaning<br>
-    B. Feature Engineering<br>
-    C. Data Normalization
-5. [Choosing Best ML Model](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
-6. [Model Creation](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Machine_Learning_Model_Creation.ipynb)
-7. Model Deployment
-8. Model Conclusion
-9. Project Innovation
-10. Limitation And Next Step
-11. Working Project Video
 
 
 ### 1. Project Description
@@ -44,7 +18,7 @@ b.Intuition About House<br>
 c.Using Machine Learning
 
 #### C. Introduction About Project
-House Price prediction are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. 
+House Price prediction are very stressful work as I have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. 
 People don’t know about the factor which influence the house price.
 But by using the Machine learning we can easily find the house which is to be prefect for us and helps to predict the price accurately.
 
